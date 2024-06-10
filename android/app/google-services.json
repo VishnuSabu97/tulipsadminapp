@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643236240179",
+    "project_id": "tulips-eb05a",
+    "storage_bucket": "tulips-eb05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643236240179:android:efba5f5394ee1d4aa27c46",
+        "android_client_info": {
+          "package_name": "com.example.tulips_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm2HbJfPJIcf9gtUEf1whfvcO7z4WRVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643236240179:android:47ae98e06a2a78aba27c46",
+        "android_client_info": {
+          "package_name": "com.zoople.tulipsadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm2HbJfPJIcf9gtUEf1whfvcO7z4WRVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
